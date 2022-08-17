@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @MirGitAtGitHub
-- 👀 I’m interested in making games and working with databases
-- 🌱 I’m currently learning computer science
-- 💞️ I’m looking to collaborate on game development
-- 📫 How to reach me i don't know
+- Hi, I’m Miro Sjöroos from Finland, but here in GitHub I am known as @MirGitAtGitHub
+- I’m interested in making games and working with databases, mainly everything considering back-end systems
+- I’m currently studing information technology
+- I’m pursuing a career in back-end development
+- You can find me in LinkedIn: https://www.linkedin.com/in/miro-sjöroos-3820b8249/
 
 <!---
 MirGitAtGitHub/MirGitAtGitHub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
